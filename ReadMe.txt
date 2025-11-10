@@ -1,0 +1,3 @@
+Charity Waters redesigned with different pictures and styles.....
+
+Please connect Laptop or PC to internet before running the index.html, so as to boot the CSS Framework used.
